@@ -18,7 +18,7 @@ pip install streamlit gTTS
 ### Запуск приложения
 
 ```bash
-streamlit run ap.py
+streamlit run Streamlit_TextToSpeech.py
 ```
 
 ## Использование
