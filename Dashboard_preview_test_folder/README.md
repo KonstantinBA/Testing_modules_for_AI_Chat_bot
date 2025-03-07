@@ -1,5 +1,6 @@
 # Dashboard Preview Test
 ![Image](https://github.com/KonstantinBA/Testing_modules_for_AI_Chat_bot/raw/main/Dashboard_preview_test_folder/image.png)
+![Image](https://github.com/KonstantinBA/Testing_modules_for_AI_Chat_bot/raw/main/Dashboard_preview_test_folder/image1.png)
 ## 📌 Описание
 Этот проект представляет собой **Streamlit Dashboard**, который содержит:
 - Информацию о предстоящих мероприятиях (будет добавлено позже)
