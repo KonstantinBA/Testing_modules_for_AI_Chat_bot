@@ -18,7 +18,7 @@
 Запустите приложение командой:
 
 ```sh
-streamlit run app.py
+streamlit run Streamlit_SpeechRecognition.py
 ```
 
 ## Использование
