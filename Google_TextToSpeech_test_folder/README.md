@@ -1,5 +1,5 @@
 # Преобразование текста в речь
-
+![Image](https://github.com/KonstantinBA/Testing_modules_for_AI_Chat_bot/raw/main/Google_TextToSpeech_test_folder/image.png)
 Простое веб-приложение на Streamlit, которое преобразует введённый текст в речь с помощью Google Text-to-Speech (gTTS).
 
 ## Установка и запуск
