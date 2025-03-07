@@ -1,5 +1,5 @@
 # Распознавание речи в текст с помощью Streamlit
-
+![Image](https://github.com/KonstantinBA/Testing_modules_for_AI_Chat_bot/raw/main/Dashboard_preview_test_folder/image.png)
 ## Описание
 Этот проект представляет собой веб-приложение, которое позволяет записывать голосовые сообщения и преобразовывать их в текст с помощью библиотеки `speech_recognition` и API Google Speech Recognition. Приложение построено с использованием Streamlit.
 
