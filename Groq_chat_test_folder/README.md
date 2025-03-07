@@ -1,5 +1,5 @@
 # AI Chat with Groq API
-![Image](https://github.com/KonstantinBA/Testing_modules_for_AI_Chat_bot/raw/main/Dashboard_preview_test_folder/image.png)
+![Image](https://github.com/KonstantinBA/Testing_modules_for_AI_Chat_bot/raw/main/Groq_chat_test_folder/image.png)
 Этот проект представляет собой чат с искусственным интеллектом, реализованный с использованием Streamlit и API Groq.
 
 ## Установка
